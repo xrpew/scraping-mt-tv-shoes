@@ -1,3 +1,6 @@
 node_modules
 falabella.js
 app.js
+/test-results/
+/playwright-report/
+/playwright/.cache/
